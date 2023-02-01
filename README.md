@@ -21,4 +21,4 @@ Programming languages I know:
 3. HTML & CSS (again, just the core basics since I don't have much experience with web development)
 4. JavaScript 
 5. C++ 
-6. C# (learning it!)
+6. C# (learning it)
