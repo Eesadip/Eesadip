@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 Programming languages I know: 
 
 1. Java (my main language as of now)
-2. Python (just the core basics, haven't delved much into it yet)
-3. HTML & CSS (again, just the core basics since I don't have much experience with web development)
+2. Python 
+3. HTML & CSS 
 4. JavaScript 
 5. C++ 
-6. C# (learning it)
